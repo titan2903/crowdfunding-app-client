@@ -80,5 +80,4 @@ export default {
   future: {
     webpack5: true,
   },
-  target: 'serverless'
 }
