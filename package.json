@@ -6,7 +6,9 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "nuxt build && nuxt generate"
+
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
