@@ -80,4 +80,7 @@ export default {
   future: {
     webpack5: true,
   },
+  generate: {
+    fallback: true
+  }
 }
