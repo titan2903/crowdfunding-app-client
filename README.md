@@ -2,23 +2,36 @@
 
 ## Build Setup
 
-```bash
-# install dependencies
-$ npm install
+* Install dependencies
 
-# serve with hot reload at localhost:3010
-$ npm run dev
+```sh
+    npm install
+```
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+* Serve with hot reload at localhost:3010
 
-# generate static project
-$ npm run generate
+```sh
+    npm run dev
+```
+
+* Build for production and launch server
+
+```sh
+    npm run build
+```
+
+```sh
+    npm run start
+```
+
+* Generate static project
+
+```sh
+    npm run generate
 ```
 
 ## Web Address
 
-- [Click this link to view the web application](https://632d9087bb117102bdbf28b8--titan-crowdfunding-app.netlify.app/)
+* [Click this link to view the web application](https://632d9087bb117102bdbf28b8--titan-crowdfunding-app.netlify.app/)
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
